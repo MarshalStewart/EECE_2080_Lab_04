@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mstewart/EECE_2080/EECE_2080_Lab_04/Recursion.cpp
+Recursion.h
+/home/mstewart/EECE_2080/EECE_2080_Lab_04/Recursion.h
+stack
+-
+stdbool.h
+-
+iostream
+-
+sstream
+-
+string
+-
+
+/home/mstewart/EECE_2080/EECE_2080_Lab_04/Recursion.h
+vector
+-
+stack
+-
+string
+-
+iostream
+-
+string.h
+-
+
